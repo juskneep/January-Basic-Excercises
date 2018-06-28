@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello Softuni", "..\..\source\repos\First Steps In Codding\First Steps In Codding\01. Hello Softuni.csproj", "{4D9C1824-80B5-4375-9B09-B9496BBCD74F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Expression", "..\..\source\repos\First Steps In Codding\02. Expression\02. Expression.csproj", "{6F0855D6-5091-4CAF-8D44-8449A0E5815F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Nums 1...20", "..\..\source\repos\First Steps In Codding\03. Nums 1...20\03. Nums 1...20.csproj", "{00BB5956-59B7-4F6C-90B9-1121E67D85ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Triangle of 55 Stars", "..\..\source\repos\First Steps In Codding\04. Triangle of 55 Stars\04. Triangle of 55 Stars.csproj", "{967F9ED3-B747-4F4D-80DD-C00B2A7AB338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Rectangle Area", "..\..\source\repos\First Steps In Codding\05. Rectangle Area\05. Rectangle Area.csproj", "{92ADD2DD-026E-492A-BC92-15CF6BD31F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9C1824-80B5-4375-9B09-B9496BBCD74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9C1824-80B5-4375-9B09-B9496BBCD74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9C1824-80B5-4375-9B09-B9496BBCD74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9C1824-80B5-4375-9B09-B9496BBCD74F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0855D6-5091-4CAF-8D44-8449A0E5815F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0855D6-5091-4CAF-8D44-8449A0E5815F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0855D6-5091-4CAF-8D44-8449A0E5815F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0855D6-5091-4CAF-8D44-8449A0E5815F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BB5956-59B7-4F6C-90B9-1121E67D85ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BB5956-59B7-4F6C-90B9-1121E67D85ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BB5956-59B7-4F6C-90B9-1121E67D85ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BB5956-59B7-4F6C-90B9-1121E67D85ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967F9ED3-B747-4F4D-80DD-C00B2A7AB338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967F9ED3-B747-4F4D-80DD-C00B2A7AB338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967F9ED3-B747-4F4D-80DD-C00B2A7AB338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967F9ED3-B747-4F4D-80DD-C00B2A7AB338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92ADD2DD-026E-492A-BC92-15CF6BD31F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92ADD2DD-026E-492A-BC92-15CF6BD31F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92ADD2DD-026E-492A-BC92-15CF6BD31F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92ADD2DD-026E-492A-BC92-15CF6BD31F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA03C962-7F1C-4FF5-BA70-16ABC8248376}
+	EndGlobalSection
+EndGlobal
